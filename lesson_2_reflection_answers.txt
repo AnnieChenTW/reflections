@@ -4,7 +4,9 @@ In this way I can track the version history of all the files in the repository.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-
+ Staging area contains the files in the working directory that you want to track.
+ It helps you to organize your commit, which means you can update multiples files to the repository in one commit.
+ 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
