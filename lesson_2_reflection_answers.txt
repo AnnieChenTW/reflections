@@ -17,6 +17,7 @@ You can use branches when you want to explore pretty significant changes in the 
 without fear of breaking the entire project. 
 
 How do the diagrams help you visualize the branch structure?
+The diagrams show you the nodes where a branch starts and ends compare to another branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
