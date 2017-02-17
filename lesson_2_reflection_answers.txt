@@ -26,3 +26,10 @@ We represent it in the diagram to you can know when the branch starts to diverge
  
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Git's automatic merging
+Pros: it will do merging automatically for you
+Cons: you need to resolve the merge conflict if Git can't do it for you
+Always doing merges manually
+Pros: You will know what has been merged together
+Cons: You have to manually find out what should be merged together.
