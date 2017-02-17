@@ -21,6 +21,8 @@ The diagrams show you the nodes where a branch starts and ends compare to anothe
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
+Merging two branches together will combine all the changes in the commits of the two branches. 
+We represent it in the diagram to you can know when the branch starts to diverge and when they are combined and what happens in between.
+ 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
