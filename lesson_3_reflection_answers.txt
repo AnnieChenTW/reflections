@@ -29,7 +29,13 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    To be honest, I haven't tried any system other than Git and GitHub. But I searched on line and find the conclusion below.
+	Pros of Git: Fastest and most efficient/ GUIs actually good/ Popular
+	Cons of Git: Command line overcomplicated and unintuitive before you spend sometime learning
+	Pros of Mercurial: Intuitive/ Fairly popular
+	Cons of Mercurial: GUIs a bit rough in places
+	Pros of Bazaar: Very intuitive/ Built-in GUI good
+	Cons of Bazaar: Not very popular/ Statistically the slowest
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
