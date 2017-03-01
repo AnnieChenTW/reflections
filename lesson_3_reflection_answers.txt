@@ -40,4 +40,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Befoe I am sure the changes is acceptable for other collaborators and I don't want to have the risk breaking master, I will use a separate branch.
+	The benefit of using a separate branch is you can try anything you want without changing the original master structure. 
+	The benefit of making changes directly in master is fewer merging steps required.
